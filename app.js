@@ -69,4 +69,4 @@ function yuGi2(n) {
 
 console.log("")
 
-console.log(yuGi2(10))
+console.log("second function", yuGi2(10))
